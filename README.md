@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! I'm Mohitha 👋
 
-<!--
-**mohitha-1210/mohitha-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | B.E. CSE @ Panimalar Engineering College
 
-Here are some ideas to get you started:
+I am a 1st-year student based in Chennai, focused on solving real-world problems through code. I enjoy identifying root causes and building systems that bridge the gap between hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 Projects & Currently Learning
+
+- **NexGen Med-shield:** An automated IoT system for expired medicine disposal (Arduino + Flask + Streamlit).
+- **Interactive Game Dev:** Currently learning and building a colorful 2D game using Python (Pygame) to explore UI logic and interactivity.
+## 🛠️ My Tech Stack
+
+- **Languages:** Python (Flask, Streamlit), HTML/CSS, C, C++.
+- **Hardware:** Arduino & Sensor Integration.
+- **Interests:** IoT, Web Development, and Creative Software.
+
+## ✨ Beyond the Code
+
+When I'm not debugging, you can find me:
+- 💃 **Dancing:** I have a background in Western dance and love participating in competitions.
+- 💎 **Carat Life:** Dedicated fan of SEVENTEEN!
+- 🌟 **Personality:** An empathetic, adaptable introvert focused on creative problem-solving.
+---
+### 📫 Let's Connect!
+- 📍 Based in Chennai,Tamilnadu, India.
+- 🎓 First Year B.E. Computer Science and Engineering.
