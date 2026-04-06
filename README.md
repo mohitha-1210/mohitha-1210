@@ -8,7 +8,8 @@ I am a 1st-year student based in Chennai, focused on solving real-world problems
 ## 🚀 Projects & Currently Learning
 
 - **NexGen Med-shield:** An automated IoT system for expired medicine disposal (Arduino + Flask + Streamlit).
-- **Memory-Match Color Game:** Currently learning and have built a colorful 2D game using Python (Pygame) to explore UI logic and interactivity, a memory-match game.
+- **Memory-Match Color Game:** Have built a colorful 2D game using Python (Pygame) to explore UI logic and interactivity, a memory-match game.
+- **Collaborative notes app:** Currently learning and developing a collaborative notes app.
 ## 🛠️ My Tech Stack
 
 - **Languages:** Python (Flask, Streamlit), HTML/CSS, C, C++.
