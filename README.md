@@ -4,7 +4,7 @@
 
 I am a 1st-year student based in Chennai, focused on solving real-world problems through code. I enjoy identifying root causes and building systems that bridge the gap between hardware and software.
 
----
+---i
 ## 🚀 Projects & Currently Learning
 
 - **NexGen Med-shield:** An automated IoT system for expired medicine disposal (Arduino + Flask + Streamlit).
@@ -12,7 +12,7 @@ I am a 1st-year student based in Chennai, focused on solving real-world problems
 - **Collaborative notes app:** Currently learning and developing a collaborative notes app.
 ## 🛠️ My Tech Stack
 
-- **Languages:** Python (Flask, Streamlit), HTML/CSS, C, C++.
+- **Languages:** Python (Flask, Streamlit), HTML/CSS, C, C++,Javascript.
 - **Hardware:** Arduino & Sensor Integration.
 - **Interests:** IoT, Web Development, and Creative Software.
 
