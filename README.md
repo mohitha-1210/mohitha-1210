@@ -20,7 +20,7 @@ I am a 1st-year student based in Chennai, focused on solving real-world problems
 ## ✨ Beyond the Code
 
 When I'm not debugging, you can find me:
-- 💃 **Dancing:** I love dancing.
+- 💃 **Hobbies:** I love dancing and I am learning violin.
 - 💎 **Carat Life:** Dedicated fan of SEVENTEEN!
 - 🌟 **Personality:** An empathetic, adaptable introvert focused on creative problem-solving.
 ---
