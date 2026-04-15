@@ -24,6 +24,7 @@ When I'm not debugging, you can find me:
 - 💃 **Hobbies:** I love dancing and I am learning violin.
 - 💎 **Carat Life:** Dedicated fan of SEVENTEEN!
 - 🌟 **Personality:** An empathetic, adaptable introvert focused on creative problem-solving.
+- **Volunteering:** I am member of the YRC Club in our college.
 ---
 ### 📫 Let's Connect!
 - 📍 Based in Chennai,Tamilnadu, India.
