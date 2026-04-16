@@ -12,7 +12,7 @@ I am a 1st-year student based in Chennai, focused on solving real-world problems
 - **Collaborative notes app:** Currently learning and developing a collaborative notes app.
 - **DSA:** Currently learning and doing DSA in python.
 
-- ## ACHIEVEMENTS
+ ## ACHIEVEMENTS
 
 - I got selected in the top 40 teams for my project titled "NEX-GEN MED-SHIELD".
   
