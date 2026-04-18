@@ -14,7 +14,7 @@ I am a 1st-year student based in Chennai, focused on solving real-world problems
 
  ## ACHIEVEMENTS
 
-- I got selected in the top 40 teams for my project titled "NEX-GEN MED-SHIELD".
+- I got selected in the top 40 teams in the international conference conducted in our college for my project titled "NEX-GEN MED-SHIELD".
   
    
  ## 🛠️ My Tech Stack
