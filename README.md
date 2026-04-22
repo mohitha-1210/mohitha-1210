@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | B.E. CSE @ Panimalar Engineering College
 
-I am a 1st-year student based in Chennai, focused on solving real-world problems through code. I enjoy identifying root causes and building systems that bridge the gap between hardware and software.
+I am a 1st-year student based in Chennai,focused on solving real-world problems through code.I enjoy identifying root causes and building systems that bridge the gap between hardware and software.
 
 
 ## 🚀 Projects & Currently Learning
