@@ -19,7 +19,7 @@ I am a 1st-year student based in Chennai,focused on solving real-world problems 
    
  ## 🛠️ My Tech Stack
 
-- **Languages:** Python, HTML/CSS, C, C++,Javascript.
+- **Languages:** Python, HTML,CSS, C, C++,Javascript.
 - **Hardware:** Arduino & Sensor Integrations.
 - **Interests:** IoT, Web Development, and Creative Software.
 
