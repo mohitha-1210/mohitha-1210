@@ -21,7 +21,7 @@ I am a 1st-year student based in Chennai,focused on solving real-world problems 
 
 - **Languages:** Python,C, C++,HTML,CSS,Javascript.
 - **Hardware:** Arduino & Sensor Integrations.
-- **Interests:** IoT, Web Development, and Creative Software.
+- **Interests:** IoT, Web Development,App development and Creative Software.
 
 ## ✨ Beyond the Code
 
