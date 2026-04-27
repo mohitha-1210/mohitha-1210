@@ -4,7 +4,6 @@
 
 I am a 1st-year student based in Chennai,focused on solving real-world problems through code.I enjoy identifying root causes and building systems that bridge the gap between hardware and software.
 
-
 ## 🚀 Projects & Currently Learning
 
 - **NexGen Med-shield:** An automated IoT system for safe and secure expired medicine disposal (Hardware and Software).
