@@ -8,7 +8,6 @@ I am a 1st-year student based in Chennai,focused on solving real-world problems 
 
 - **NexGen Med-shield:** An automated IoT system for safe and secure expired medicine disposal (Hardware and Software).
 - **Memory-Match Color Game:** Have built a colorful 2D game using Python (Pygame) to explore UI logic and interactivity, a memory-match game.
-- **Collaborative notes app:** Developing a collaborative notes app.
 - **DSA:** Currently learning and doing DSA in python. 
 
  ## ACHIEVEMENTS
