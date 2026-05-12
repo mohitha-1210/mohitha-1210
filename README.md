@@ -25,8 +25,8 @@ I am a 1st-year student based in Chennai,focused on solving real-world problems 
 
 When I'm not debugging, you can find me:
 
-- 💃 **Hobbies:** I love dancing and I am learning violin.
-- 💎 **Carat Life:** Dedicated fan of SEVENTEEN!
+- 💃 **Hobbies:** I love dancing and I am learning violin too.
+- 💎 **Carat Life:** Dedicated fan of SEVENTEEN !
 - 🌟 **Personality:** An empathetic, adaptable introvert focused on creative problem-solving.
 - **Volunteering:** I am member of the YRC Club in our college.
 
